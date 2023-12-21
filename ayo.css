@@ -1,0 +1,53 @@
+    *{
+        border-radius: 28px;
+    }
+
+  .body{
+    line-height: 1.5cm;
+  }
+
+.img img {
+width: 150px;
+height: 180px;
+border-radius: 75%;
+align-items: left;
+}
+
+.name {
+line-height: 1cm;
+text-align: left;
+}
+
+.email {
+line-height: 1cm;
+text-align: left;
+
+}
+
+.about {
+font:size 120px; ;
+font-family:sans-serif
+
+}
+
+.profile {
+max-width: 70%;
+
+}
+
+.wrapper {
+width: 50%;
+background-color: yellow;
+color: black;
+padding: 2%;
+margin: 0;
+
+}
+
+.button a {
+background-color: rgb(10, 10, 10);
+padding: 10px 30px ;
+text-decoration: ;
+font-size: 50spx;
+color:yellow ;
+}
